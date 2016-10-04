@@ -1,4 +1,4 @@
-# ubs_test
+# Programming test
 The Problem
 As an author
 I want to know the number of times each word appears in a sentence
