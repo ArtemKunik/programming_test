@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programming_Test", "UBS_Test\Programming_Test.csproj", "{663DE654-C0D6-4C68-BD34-1C6A67B1F29A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programming_Test", "Programming_Test\Programming_Test.csproj", "{663DE654-C0D6-4C68-BD34-1C6A67B1F29A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1D61D290-C707-4927-A2AE-0B26BC1E5B8F}"
 	ProjectSection(SolutionItems) = preProject
